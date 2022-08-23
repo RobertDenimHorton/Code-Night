@@ -1,2 +1,2 @@
-# Code-Night
-This repo contains Documents and projects for code night 
+# Welcome! 🙌 To Code-Night! 😎 
+> This was started as a simple way to get friends together and kinda introduce and spread the joy of computers and the tech world surrounding all the software and tools that are available today.  With these code nights we have no expectations of effort or skills level for those that want to show up. We plan to make this more of a hobby than another weekly obligation where we can work on projects of our own and choose which projects we would like to develop and new skills we would like to learn.
